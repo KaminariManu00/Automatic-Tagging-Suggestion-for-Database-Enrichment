@@ -1,6 +1,7 @@
 # Automatic-Tagging-Suggestion-for-Database-Enrichment
 
 Code for Hogheschool Utrecht Project "Automatic Tagging Suggestion for Database Enrichment".
+
 Project page: https://www.internationalhu.com/research/projects/automatic-tagging-suggestion-for-database-enrichment
 
 Project overview:
