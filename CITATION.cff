@@ -1,0 +1,7 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: Amoruso
+    given-names: Emanuele Cuono
+    orcid: https://orcid.org/0009-0008-7302-5862
+title: "Automatic Tagging Suggestion for Database Enrichment"
